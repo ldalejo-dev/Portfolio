@@ -1,0 +1,34 @@
+.navbar__nav{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+
+}
+
+.logo__p{
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.nav__menu{
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+    background-color:chocolate;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li,a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    margin: 1em;
+    text-align: center;
+    list-style: none;
+}
